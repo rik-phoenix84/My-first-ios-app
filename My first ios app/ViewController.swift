@@ -17,7 +17,7 @@ class ViewController: UIViewController {
 
 
     @IBAction func clickedSaveBtn(_ sender: Any) {
-        message.text = "Ciao mondo";
+        message.text = "Hello World";
         
         print("Clicked Saved")
     }
